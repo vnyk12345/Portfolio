@@ -214,4 +214,10 @@ font-family: 'Lobster', cursive;
    
   
 }
+@media only screen and( max-width:600px){
+   .main{
+      background-image: url(singh.png.jpg);
+   }
+
+}
 
